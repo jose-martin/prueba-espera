@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    background-color: aqua;
+    font-size: 2rem;
+}
+.ancho{
+    width: 200px;
+    height: 200px;
+}
+.prueba{
+    color: blue;
+}
+h2{
+    color: lightcoral;
+}
